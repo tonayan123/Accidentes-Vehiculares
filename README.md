@@ -18,7 +18,7 @@ Además de las repercusiones sociales y humanas, los accidentes viales, represen
 Bajo este tenor, y con el fin de atenuar la situación descrita anteriormente, resulta útil identificar cuáles son los factores que tienen mayor influencia en los choques automovilísticos, cuáles son los perfiles más propensos a generar un choque, y simultáneamente diseñar estrategias que permitan atacar las causas raíz de los siniestros automovilísticos en México.
 # Análisis de datos
 El análisis de datos incluye la obtención, limpieza y transformación de los datos. Adicionalmente se incluye el análisis exploratorio y las conclusiones.
-* [Jupyter con el codigo](https://github.com/Bedu-Equipo13/Proyecto_Python_Accidentes/blob/main/Jupyter_notebook/Proyecto_Python.ipynb):
+* [Jupyter con el codigo](https://github.com/Bedu-Equipo13/Proyecto_Python_Accidentes/blob/main/Jupyter_notebook/Proyecto_Python.ipynb)
 
 #Conclusiones y proyección de analisis futúros
 Los análisis inferenciales deberán ir enfocados en evaluar 3 aspectos específicos.
