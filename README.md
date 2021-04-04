@@ -18,7 +18,7 @@ Además de las repercusiones sociales y humanas, los accidentes viales, represen
 Bajo este tenor, y con el fin de atenuar la situación descrita anteriormente, resulta útil identificar cuáles son los factores que tienen mayor influencia en los choques automovilísticos, cuáles son los perfiles más propensos a generar un choque, y simultáneamente diseñar estrategias que permitan atacar las causas raíz de los siniestros automovilísticos en México.
 # Análisis de datos
 El análisis de datos incluye la obtención, limpieza y transformación de los datos. Adicionalmente se incluye el análisis exploratorio y las conclusiones.
-- https://github.com/Bedu-Equipo13/Proyecto_Python_Accidentes/blob/main/Jupyter_notebook/Proyecto_Python.ipynb
+- [Jupyter con el codigo]https://github.com/Bedu-Equipo13/Proyecto_Python_Accidentes/blob/main/Jupyter_notebook/Proyecto_Python.ipynb
 #Conclusiones y proyección de analisis futúros
 Los análisis inferenciales deberán ir enfocados en evaluar 3 aspectos específicos.
 
@@ -29,6 +29,6 @@ El segundo rubro será ahondar en el análisis comparativo con otros archivos de
 Como último rubro, será importante seguir enfocando hacía la predicción de choques bajo diferentes tipos de escenarios, para eto será útil efectuar métodos como las series de tiempo. asimismo y complementadno lo anterior estas predicciones podrán ayudar a también generar posibles análisis económetricos de la situación.
 
 Finalmente, englobando todo este futuro desarrollo, estipulado sobre las base del análisis exploratorio que se genero, la propuesta final será diseñar estrategias que permitan mitigar los factores (causas raíz) que propician mayor número de choques. A manera de ejemplo, durante este primer análisis encontramos que a medida que incrementaba la hora del día, aumentaba el número de choques, y que el Viernes era el día con mayor número de choques registrados. Aunado a esto encontramos, qué alcaldías, erán las que tenían un reporte de mayor número de accidentes, por lo que, considerando estos tres factores, podriamos diseñar una medida de contigencía de alchólimetros mejor ubicados y distribuidos sobre las delegaciones con más concentración de choques y en horarios que quizas antes no se tenían contemplados, con esto probablemente reducir choques y consecuentemente reducir gasto público e indivdual. Esto claramente fue un somero esbozo del tipo de soluciones que podrían proponerse, siendo conscientes de que ese tipo de decisiones deberá contemplar también otros factores como movilidad en la zona, presupuesto de tránsito y vialidad, entre otros que los expertos en el tema considerarán, sin embargo, este ejercicio tenía como mera finalidad evidenciar el potencial de los resultados que pudiera llegar a tener este análisis y la utilidad sobre la problemática planteada al inicio del proyecto.
-#Fuentes de los datos
-- https://www.inegi.org.mx/rnm/index.php/catalog/506/
-- https://www.inegi.org.mx/programas/accidentes/
+# Fuente de los Datos 
+* [Diccionario de datos](https://www.inegi.org.mx/rnm/index.php/catalog/506/):
+* [Pagina de los datos](https://www.inegi.org.mx/programas/accidentes/):
