@@ -19,6 +19,7 @@ Bajo este tenor, y con el fin de atenuar la situación descrita anteriormente, r
 # Análisis de datos
 El análisis de datos incluye la obtención, limpieza y transformación de los datos. Adicionalmente se incluye el análisis exploratorio y las conclusiones.
 * [Jupyter con el codigo](https://github.com/Bedu-Equipo13/Proyecto_Python_Accidentes/blob/main/Jupyter_notebook/Proyecto_Python.ipynb):
+
 #Conclusiones y proyección de analisis futúros
 Los análisis inferenciales deberán ir enfocados en evaluar 3 aspectos específicos.
 
